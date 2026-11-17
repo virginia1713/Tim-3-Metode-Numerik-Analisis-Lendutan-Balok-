@@ -11,7 +11,8 @@ Tugas Besar Metode Numerik (Tim 3) - Analisis dan simulasi numerik lendutan balo
 | Virginia Putri Gautama | @virginia1713 | Task 1 |
 | Dwi Nafisah Anggraeni| @nafisaagr | Task 2 |
 | Fahrozi Akmal Guchi | @FahroziAkmal | Task 3 |
-| Ahnad Arya Negara | @arya-exe753 | Task 4 |
+| Ahmad Arya Negara | @arya-exe753 | Task 4 |
 ## 3. Project Progress
 | Week | Activities | Status | Person in Charge |
+| :--- | :--- | :--- | :--- |
 | 1 | Project planning | Completed | All members |
