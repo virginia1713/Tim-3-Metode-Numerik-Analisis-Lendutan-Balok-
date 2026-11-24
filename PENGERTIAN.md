@@ -44,3 +44,24 @@ VA - 3 = 0
 -24 + 24 = 0
        0 = 0
 
+## Perhitungan Persamaan Diferensial
+
+1. Persamaan Momen Lentur M(x)
+Berdasarkan reaksi tumpuan VA = 3 t dan beban terpusat P₁ = 6 t di x = 4 m, fungsi momen lentur dibagi menjadi dua bagian:
+- Untuk 0 ≤ x ≤ 4 m: M(x) = 3x
+- Untuk 4 < x ≤ 8 m: M(x) = 3x - 6(x - 4)
+
+2. Persamaan Diferensial Utama
+Hubungan kelengkungan dan momen lentur dirumuskan dengan d²y / dx² = -M(x) / EI:
+- Untuk 0 ≤ x ≤ 4 m: d²y / dx² = -3x / EI
+- Untuk 4 < x ≤ 8 m: d²y / dx² = -[3x - 6(x - 4)] / EI
+
+3. Sistem Persamaan Orde Satu
+Untuk diselesaikan dengan metode numerik secara bertahap per langkah h, persamaan di atas dipecah menjadi dua:
+- Persamaan kemiringan: dy / dx = θ
+- Persamaan kelengkungan: dθ / dx = -M(x) / EI
+
+4. Syarat Batas
+Karena kedua ujung balok ditopang tumpuan sendi dan rol, nilai lendutan di kedua ujungnya sama dengan nol:
+- Di tumpuan sendi A: y(0) = 0
+- Di tumpuan rol B: y(8) = 0
