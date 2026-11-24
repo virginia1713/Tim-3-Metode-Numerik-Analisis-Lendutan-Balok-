@@ -16,3 +16,4 @@ Tugas Besar Metode Numerik (Tim 3) - Analisis dan simulasi numerik lendutan balo
 | Week | Activities | Status | Person in Charge |
 | :--- | :--- | :--- | :--- |
 | 1 | Project planning | Completed | All members |
+| 2 | Penyusunan skenario, parameter dan justifikasi, asumsi, serta model matematis di README | Completed | All Members |
