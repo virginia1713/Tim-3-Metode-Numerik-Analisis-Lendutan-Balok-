@@ -13,3 +13,4 @@
 
 * **Alasan pilih Tumpuan Sendi & Rol:** Sesuai soal untuk gelagar sederhana (seperti jembatan kecil atau balok lantai), tumpuan sendi–rol adalah model paling dasar agar balok bisa melentur alami dan bebas memuai tanpa patah di ujungnya. Secara hitungan, ujung kiri dan kanan balok pasti tidak turun (`lendutan = 0`), sehingga mudah dihitung dengan metode numerik.
 * **Alasan pilih Beban Terpusat:** Menggambarkan beban nyata yang bertumpu di satu titik, seperti roda kendaraan di jembatan kecil atau titik tumpu balok anak seperti di jurnal. Selain itu, beban terpusat di tengah balok menghasilkan lendutan paling besar (paling kritis), sehingga paling pas dipakai untuk menguji apakah balok masih aman atau sudah melewati batas lendutan izin.
+
